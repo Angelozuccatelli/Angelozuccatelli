@@ -1,6 +1,6 @@
-# sobre mim
+# sou um AMOGUS
 
-## editando perfil
+## É CIANO CONFIA 
 ###### teste
 
 - ola, eu sou @Angelozuccatelli
