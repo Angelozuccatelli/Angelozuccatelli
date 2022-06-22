@@ -1,14 +1,16 @@
 # shaolin matador de porco
 
-## É CIANO CONFIA 
+## 
 ###### teste
 
 - ola, eu sou @Angelozuccatelli
 o meu imail é: angelo.zuccatelli@escola.pr.gov.br
-👍 
+
+
+- 👍 quero aprendor novos cursos para que possa ter um bom futuro pela frente
 - 👀 estou intersado em aprender coisas novas
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 eu estou interesado em aprender novos cursos
+- 💞️ estou aprendendo a programar novos cursos de computação
 - 📫 How to reach me ...
 
 ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
